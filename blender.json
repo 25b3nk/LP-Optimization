@@ -1,0 +1,44 @@
+{
+    "chicken": {
+        "price": 0.013,
+        "protein": 0.100,
+        "fat": 0.080,
+        "fibre": 0.001,
+        "salt": 0.002
+    },
+    "beef": {
+        "price": 0.008,
+        "protein": 0.200,
+        "fat": 0.100,
+        "fibre": 0.005,
+        "salt": 0.005
+    },
+    "mutton": {
+        "price": 0.01,
+        "protein": 0.150,
+        "fat": 0.110,
+        "fibre": 0.003,
+        "salt": 0.007
+    },
+    "rice": {
+        "price": 0.002,
+        "protein": 0.000,
+        "fat": 0.010,
+        "fibre": 0.100,
+        "salt": 0.002
+    },
+    "wheat": {
+        "price": 0.005,
+        "protein": 0.040,
+        "fat": 0.010,
+        "fibre": 0.150,
+        "salt": 0.008
+    },
+    "gel": {
+        "price": 0.001,
+        "protein": 0.000,
+        "fat": 0.000,
+        "fibre": 0.000,
+        "salt": 0.000
+    }
+  }
